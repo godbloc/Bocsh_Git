@@ -1181,3 +1181,8 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.04.11-04.34.49:306][ 69]LogFileHelpers: No new changes to save!
 [2023.04.11-04.34.49:321][ 69]AssetCheck: New page: Asset Save: BVR_Level1
 [2023.04.11-04.34.49:321][ 69]LogContentValidation: Display: Validating World /Game/BoschVR/Maps/BVR_Level1.BVR_Level1
+[2023.04.11-04.40.23:566][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.04.11-04.40.23:616][235]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AIUE5_vol8_02/Maps/AIUE_vol8_02_Auto1
+[2023.04.11-04.40.23:616][235]LogSavePackage: Moving 'D:/ADTWORK/BOSCH/BoschGit/Bocsh_Git/BoschProject/VRBorsch_03/Saved/AIUE_vol8_02_Auto1F54E9396402111808BE480B9936DEC45.tmp' to 'D:/ADTWORK/BOSCH/BoschGit/Bocsh_Git/BoschProject/VRBorsch_03/Saved/Autosaves/Game/AIUE5_vol8_02/Maps/AIUE_vol8_02_Auto1.umap'
+[2023.04.11-04.40.23:621][235]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BoschVR/Maps/BVR_Level1' took 0.063
+[2023.04.11-04.40.23:621][235]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.063
